@@ -3,7 +3,7 @@
   
   ## About Me 
   
-I'm Selva Muthu Kumaran, a data analyst, and Biotechnologist. I'm passionate about using data to solve complex problems in the field of Biology. I strive to develop innovative solutions that will help advance the field of genetics and make it more accessible to the public. I have a Bachelor's Degree in Genetics and a Master's Degree in Biotechnology. I have completed PGP in Full Stack Development from NIIT and Data Science & Artificial Intelligence from IIT Madras. I have a deep understanding of data analytics and machine learning and am well-versed in programming languages like Python, R, and SQL.
+I'm Selva Muthu Kumaran, a data scientist and Biotechnologist. I'm passionate about using data to solve complex problems in the field of Biology. I strive to develop innovative solutions that will help advance the field of genetics and make it more accessible to the public. I have a Bachelor's Degree in Genetics and a Master's Degree in Biotechnology. I have completed PGP in Full Stack Development from NIIT and Data Science & Artificial Intelligence from IIT Madras. I have a deep understanding of data analytics and machine learning and am well-versed in programming languages like Python, R, and SQL.
 
 ## Tech Stack 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -25,6 +25,9 @@ I'm Selva Muthu Kumaran, a data analyst, and Biotechnologist. I'm passionate abo
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+## GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selvamuthukumaran1&show_icons=true&locale=en" alt="selvamuthukumaran1" /></p>
 
 ## Contact Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamsmk48)
