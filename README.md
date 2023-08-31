@@ -1,9 +1,15 @@
-  ## Hello there 👋
-  
-  
-  ## About Me 
-  
-I'm Selva Muthu Kumaran, a data scientist and Biotechnologist. I'm passionate about using data to solve complex problems in the field of Biology. I strive to develop innovative solutions that will help advance the field of genetics and make it more accessible to the public. I have a Bachelor's Degree in Genetics and a Master's Degree in Biotechnology. I have completed PGP in Full Stack Development from NIIT and Data Science & Artificial Intelligence from IIT Madras. I have a deep understanding of data analytics and machine learning and am well-versed in programming languages like Python, R, and SQL.
+<h1 align="center">Hi 👋, I'm Selva Muthu Kumaran Boopalan</h1>
+<h3 align="center">A passionate Full Stack Developer and Biotechnologist from India</h3>
+
+- 🌱 I’m currently learning **Data Science and Artificial Intelligence**
+
+- 📫 How to reach me **boopalanhemamalini@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/selva-muthu-kumaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selva-muthu-kumaran" height="30" width="40" /></a>
+<a href="https://kaggle.com/iamsmk12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iamsmk12" height="30" width="40" /></a>
+</p>
 
 ## Tech Stack 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
