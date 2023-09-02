@@ -5,11 +5,6 @@
 
 - 📫 How to reach me **boopalanhemamalini@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/selva-muthu-kumaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selva-muthu-kumaran" height="30" width="40" /></a>
-<a href="https://kaggle.com/iamsmk12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iamsmk12" height="30" width="40" /></a>
-</p>
 
 ## Tech Stack 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
