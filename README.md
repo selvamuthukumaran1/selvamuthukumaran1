@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selva Muthu Kumaran Boopalan</h1>
-<h3 align="center">A passionate Full Stack Developer and Biotechnologist</h3>
+<h3 align="center">Software Engineer | Aspiring Data Scientist</h3>
 
 - 🌱 I’m currently learning **Data Science and Artificial Intelligence**
 
