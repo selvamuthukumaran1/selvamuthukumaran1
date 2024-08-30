@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Selva Muthu Kumaran Boopalan</h1>
-<h3 align="center">Software Engineer | Aspiring Data Scientist</h3>
+<h3 align="center">Java Full Stack Developer | Data Scientist | Biotechnology Researcher</h3>
 
-- 🌱 I’m currently learning **Data Science and Artificial Intelligence**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **selvamuthukumaranboopalan@gmail.com**
 
